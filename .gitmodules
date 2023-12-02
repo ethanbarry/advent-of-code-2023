@@ -1,0 +1,6 @@
+[submodule "D2"]
+	path = D2
+	url = ./D2
+[submodule "D1"]
+	path = D1
+	url = ./D1
