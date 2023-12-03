@@ -7,3 +7,6 @@
 [submodule "template"]
 	path = template
 	url = ./template
+[submodule "D3"]
+	path = D3
+	url = ./D3
