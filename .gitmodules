@@ -13,3 +13,6 @@
 [submodule "d4"]
 	path = d4
 	url = ./d4
+[submodule "D5"]
+	path = D5
+	url = ./D5
